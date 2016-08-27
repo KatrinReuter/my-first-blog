@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Name",
+				"Name"
+			],
+			[
+				"pub",
+				"published_date"
+			],
+			[
+				"tra",
+				"train"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Katrin/Desktop/djangogirls/blog/templates/blog/post_list.html",
+		"/Users/Katrin/Desktop/djangogirls/mysite/blog:urls.py",
+		"/Users/Katrin/Desktop/djangogirls/mysite/urls.py",
+		"/Users/Katrin/Desktop/djangogirls/blog/views.py",
+		"/Users/Katrin/Desktop/djangogirls/.gitignore",
+		"/Users/Katrin/Desktop/Python/Spielerei_for_dummies.py",
+		"/Users/Katrin/Desktop/Spielerei_for_dummies.py",
+		"/Users/Katrin/Desktop/python_intro.py",
+		"/Users/Katrin/Desktop/try.py",
+		"/Users/Katrin/Desktop/try",
+		"/Users/Katrin/Desktop/djangogirls/blog/admin.py",
+		"/Users/Katrin/Desktop/djangogirls/mysite/settings.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/5 try_yourself_seeing_the_world.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/2 modifying_elements_in_a_list.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/4 organizing_list.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/try_yourself_seeing_the_world.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/organizing_list.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/3 try yourself exercise.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/try yourself exercise.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/try yourself exercise",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/1 names.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/names.py",
+		"/Users/Katrin/Desktop/python_work/Chapter_3_introducing_lists/modifying_elements_in_a_list.py",
+		"/Users/Katrin/Desktop/names.py",
+		"/Users/Katrin/Desktop/python_work/Zen_of_Python.py",
+		"/Users/Katrin/Desktop/python_work/Zen_of_Python",
+		"/Users/Katrin/Desktop/python_work/10 numbers.py",
+		"/Users/Katrin/Desktop/python_work/numbers.py",
+		"/Users/Katrin/Desktop/python_work/stripping_names.py",
+		"/Users/Katrin/Desktop/python_work/famous_quote2.py",
+		"/Users/Katrin/Desktop/python_work/famous_quote.py",
+		"/Users/Katrin/Desktop/python_work/name_cases.py",
+		"/Users/Katrin/Desktop/python_work/simple_message.py",
+		"/Users/Katrin/Desktop/python_work/personal_message.py",
+		"/Users/Katrin/Desktop/python_work/personal_message",
+		"/Users/Katrin/Desktop/python_work/apostrophe.py",
+		"/Users/Katrin/Desktop/apostrophe.py",
+		"/Users/Katrin/Desktop/python_work/name.py",
+		"/Users/Katrin/Desktop/python_work/hello_world.py",
+		"/Users/Katrin/Desktop/python_work/hello_world2.py",
+		"/Users/Katrin/Desktop/python_work/hello_wordl.py",
+		"/Users/Katrin/Desktop/hello_wordl.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 229.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
